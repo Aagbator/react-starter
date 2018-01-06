@@ -6,9 +6,12 @@
 3. npm install -g browserify
 4. npm install --save babelify
 5. npm install --save watchify
-6. npm install --save babel-preset-react
+6. npm install --save babel-preset-react, npm install --save babel-core
 7. npm install --save react
 8. npm install --save react-dom
+
+9. npm install --save create-react-class  **to replace "creatClass"
+
 
 
 
